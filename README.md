@@ -1,0 +1,2 @@
+# revista
+version mobile revista
